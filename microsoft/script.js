@@ -1,4 +1,3 @@
-console.log("Hello, World!");
 /* 
 This is a multi-line comment.
 ! Anatomy of: console.log("Hello, World!");
@@ -10,3 +9,8 @@ This is a multi-line comment.
 * ;                 → Ends the instruction.
 */
 //this is a single-line comment. Comments are ignored by the JavaScript engine and are used for adding notes or explanations in the code.
+console.log("Hello, World!");
+console.log("I am Vagish.");
+console.log("I am learning JavaScript.");
+console.log("I love chess.");
+console.log("Nice to meet you.")
