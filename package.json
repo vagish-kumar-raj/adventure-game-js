@@ -1,21 +1,24 @@
 {
-   "name": "learning-javascript",
+   "name": "adventure-game",
    "version": "1.0.0",
-   "description": "",
+   "description": "adventure-game",
    "main": "index.js",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/vagish-kumar-raj/learning-javascript.git"
+      "url": "git+https://github.com/vagish-kumar-raj/adventure-game-js.git"
    },
    "keywords": [],
    "author": "",
    "license": "ISC",
    "type": "commonjs",
    "bugs": {
-      "url": "https://github.com/vagish-kumar-raj/learning-javascript/issues"
+      "url": "https://github.com/vagish-kumar-raj/adventure-game-js/issues"
    },
-   "homepage": "https://github.com/vagish-kumar-raj/learning-javascript#readme"
+   "homepage": "https://github.com/vagish-kumar-raj/adventure-game-js#readme",
+   "dependencies": {
+      "readline-sync": "^1.4.10"
+   }
 }
